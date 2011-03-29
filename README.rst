@@ -13,8 +13,8 @@ Send your html as a *POST* request (and encode it in *utf-8*) to ``http://yourdo
 ::
 
 	{	
-			"result": RESULT_TEXT
-			"status": (OK|ERROR)
+		"result": RESULT_TEXT
+		"status": (OK|ERROR)
 	}
 
 Requirements
