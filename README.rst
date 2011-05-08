@@ -21,4 +21,4 @@ Requirements
 ------------
 
 * `node.js <http://nodejs.org/>`_ v0.4.4
-* `node-radability <https://github.com/arrix/node-readability>`_
+* `node-readability <https://github.com/arrix/node-readability>`_
